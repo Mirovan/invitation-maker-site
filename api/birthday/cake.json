@@ -1,0 +1,36 @@
+{
+  "image": "cake.png",
+  "objects": [
+    {
+      "x": 52.99999999999983,
+      "y": 390.9999999999988,
+      "width": 385.00000000000017,
+      "text": "15 August 18:00",
+      "fontSize": 28,
+      "fontFamily": "Arial Black",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#cf9ba1",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 120.00000000000034,
+      "y": 454.99999999999704,
+      "width": 259.0144927536227,
+      "text": "The Jacksons-1234 pinetree ave, San Diego.",
+      "fontSize": 20,
+      "fontFamily": "Arial",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#cf9ba1",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "bgColor": "#000000",
+      "opacity": 0
+    }
+  ]
+}

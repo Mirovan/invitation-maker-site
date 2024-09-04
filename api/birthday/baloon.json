@@ -1,0 +1,51 @@
+{
+  "image": "baloon.png",
+  "objects": [
+    {
+      "x": 110.99999999999986,
+      "y": 150.99999999999864,
+      "width": 279.98916661621905,
+      "text": "MICHAEL BIRTHDAY PARTY",
+      "fontSize": 30,
+      "fontFamily": "Arial Black",
+      "letterSpacing": 3,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#ffffff",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 266.99999999999994,
+      "y": 430.99999999999903,
+      "width": 178.0000000000001,
+      "text": "JUNE 05\n1 PM",
+      "fontSize": 28,
+      "fontFamily": "Arial",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#ffffff",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 293.0000000000001,
+      "y": 570.9999999999967,
+      "width": 178.9999999999998,
+      "text": "The Jacksons-1234 pinetree ave, San Diego.",
+      "fontSize": 20,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#ffffff",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "bgColor": "#000000",
+      "opacity": 0
+    }
+  ]
+}

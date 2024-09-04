@@ -1,0 +1,51 @@
+{
+  "image": "jiraf.png",
+  "objects": [
+    {
+      "x": 131.99999999999997,
+      "y": 372.9999999999994,
+      "width": 273.98916661621894,
+      "text": "ANNE'S PARTY",
+      "fontSize": 40,
+      "fontFamily": "Arial Black",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#362d5d",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 109,
+      "y": 562,
+      "width": 300,
+      "text": "Cake / Pizza / Music",
+      "fontSize": 20,
+      "fontFamily": "Arial",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#362d5d",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 82,
+      "y": 624,
+      "width": 364.99999999999994,
+      "text": "SEPTEMBER 5TH - 1 PM TO 3 PM. The Jacksons-1234 pinetree ave, San Diego.",
+      "fontSize": 16,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#362d5d",
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0,
+      "bgColor": "#000000",
+      "opacity": 0
+    }
+  ]
+}

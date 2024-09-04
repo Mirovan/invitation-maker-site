@@ -1,0 +1,51 @@
+{
+  "image": "candy.png",
+  "objects": [
+    {
+      "x": 32.999999999999886,
+      "y": 196.99999999999886,
+      "width": 424.989166616219,
+      "text": "ANNE'S BIRTHDAY",
+      "fontSize": 65,
+      "fontFamily": "Arial Black",
+      "letterSpacing": 3,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#070251",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 101.99999999999997,
+      "y": 463.00000000000006,
+      "width": 279.0000000000001,
+      "text": "Cake / Pizza / Music",
+      "fontSize": 20,
+      "fontFamily": "Arial",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#070251",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 99,
+      "y": 585.9999999999987,
+      "width": 308.99999999999994,
+      "text": "SEPTEMBER 5TH - 1 PM TO 3 PM. The Jacksons-1234 pinetree ave, San Diego.",
+      "fontSize": 16,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#070251",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "bgColor": "#000000",
+      "opacity": 0
+    }
+  ]
+}

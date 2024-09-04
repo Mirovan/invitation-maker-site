@@ -1,0 +1,50 @@
+{
+  "image": "circles.png",
+  "objects": [
+    {
+      "x": 125,
+      "y": 171,
+      "width": 250,
+      "text": "JOIN US FOR A MAGICAL BIRTHDAY",
+      "fontSize": 18,
+      "fontFamily": "Arial",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#846539",
+      "opacity": 0,
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0
+    },
+    {
+      "x": 96,
+      "y": 262,
+      "width": 300,
+      "text": "Olivia",
+      "fontSize": 140,
+      "fontFamily": "Gabriola",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#846539",
+      "opacity": 0,
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0
+    },
+    {
+      "x": 115,
+      "y": 449,
+      "width": 267.99999999999994,
+      "text": "SEPTEMBER 5TH - 1 PM TO 3 PM. The Jacksons-1234 pinetree ave, San Diego. Pizza, cake and games provided",
+      "fontSize": 16,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#846539",
+      "opacity": 0,
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0
+    }
+  ]
+}

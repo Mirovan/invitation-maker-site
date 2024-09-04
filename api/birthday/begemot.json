@@ -1,0 +1,51 @@
+{
+  "image": "begemot.png",
+  "objects": [
+    {
+      "x": 25,
+      "y": 54,
+      "width": 466.98916661621877,
+      "text": "HAPPY BIRTHDAY",
+      "fontSize": 70,
+      "fontFamily": "Arial Black",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#fda51a",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 102,
+      "y": 210,
+      "width": 300,
+      "text": "You're invited",
+      "fontSize": 30,
+      "fontFamily": "Arial",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 1.2,
+      "fill": "#ea1849",
+      "stroke": "#000000",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 69,
+      "y": 633,
+      "width": 364.99999999999994,
+      "text": "SEPTEMBER 5TH - 1 PM TO 3 PM. The Jacksons-1234 pinetree ave, San Diego. Pizza, cake and games provided",
+      "fontSize": 16,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#000000",
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0,
+      "bgColor": "#000000",
+      "opacity": 0.1
+    }
+  ]
+}

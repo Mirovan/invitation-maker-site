@@ -1,0 +1,35 @@
+{
+  "image": "wedding5.png",
+  "objects": [
+    {
+      "x": 113,
+      "y": 163,
+      "width": 300,
+      "text": "Olivia\n&\nJohn",
+      "fontSize": 100,
+      "fontFamily": "Gabriola",
+      "letterSpacing": 2,
+      "align": "center",
+      "lineHeight": 0.8,
+      "fill": "#846539",
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0,
+      "opacity": 0
+    },
+    {
+      "x": 140.00000000000017,
+      "y": 466.9999999999995,
+      "width": 243.9999999999999,
+      "text": "JULY 13TH 2024 AT 2PM.\nThe Jacksons-1234 pinetree ave, San Diego",
+      "fontSize": 16,
+      "fontFamily": "Times New Roman",
+      "letterSpacing": 0,
+      "align": "center",
+      "lineHeight": 1,
+      "fill": "#846539",
+      "stroke": "#d3ccbd",
+      "strokeWidth": 0,
+      "opacity": 0
+    }
+  ]
+}
